@@ -40,7 +40,7 @@ Fucker = Block Breaker
 
 BedとRedstoneの色が被ってますがBedwarsにレッドストーン無いので許してください
 
--まだRegen常時ON無理です-
+~まだRegen常時ON無理です~
 b2からできるようになりました
 
 1.21.90の奴以外ClientRot壊れてます
