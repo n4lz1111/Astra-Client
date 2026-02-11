@@ -2,7 +2,7 @@ Edition : Minecraft for Windows10/11
 
 Support Version:
 
-Astra a18~ 1.21.90(beta test version)
+~~Astra a18~ 1.21.90(beta test version)~~
 
 Astra b1~ latest 1.21.10X(Recommended 1.21.101)
 
@@ -21,7 +21,7 @@ Japanese
 
 現在更新しているバージョン
 
-Astra a18~ 1.21.90(Betaの1.21.90版test)
+~~Astra a18~ 1.21.90(Betaの1.21.90版test)~~
 
 Astra b1~ latest 1.21.10X(推奨 1.21.101)
 
@@ -38,10 +38,11 @@ Fucker = Block Breaker
 
 BedとRedstoneの色が被ってますがBedwarsにレッドストーン無いので許してください
 
-~まだRegen常時ON無理です~
+~~まだRegen常時ON無理です~~
 b2からできるようになりました
 
-1.21.90の奴以外ClientRot壊れてます
+~~1.21.90の奴以外ClientRot壊れてます~~
 
+結局1.21.90のAstraは出ませんでした
 
 ここにないバージョンはdiscordにあるかもしれません : https://discord.gg/72Gzc2tpSm
