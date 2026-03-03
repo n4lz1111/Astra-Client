@@ -1,3 +1,7 @@
+現在のHiveのサポートバージョンが1.21.11X 1.21.13X 26.Xなので
+1.21.10Xであるこのクライアントは現在Hiveで使用できません
+何とかして26.0にアプデできるかもなのでそれまで待ってください
+
 Edition : Minecraft for Windows10/11
 
 Support Version:
